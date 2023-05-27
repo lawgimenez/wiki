@@ -1,6 +1,6 @@
 # Work
 
-## Machine
+## Hardwares
 
 - [MacBook Air M2](https://www.apple.com/macbook-air-m2/) [Ventura 13.4](https://www.apple.com/macos/ventura/)
 
