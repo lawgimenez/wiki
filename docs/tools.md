@@ -20,6 +20,8 @@ These are the software I use daily at work.
 
 - [GitHub](https://github.com)
 
+- [homebrew](https://brew.sh)
+
 - [Slack with Bugsnag integration](https://slack.com)
 This is for iOS and Android crash and ANRs notifications.
 
