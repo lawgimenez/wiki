@@ -1,1 +1,1 @@
-# wiki
+# Welcome to my personal wiki.
