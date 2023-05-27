@@ -1,5 +1,9 @@
 # Work
 
+## Machine
+
+- [MacBook Air M2](https://www.apple.com/macbook-air-m2/) [Ventura 13.4](https://www.apple.com/macos/ventura/)
+
 These are the software I use daily at work.
 
 - [Xcode 14.3.1 RC](https://developer.apple.com/xcode/)
