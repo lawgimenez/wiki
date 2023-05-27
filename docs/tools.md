@@ -29,3 +29,5 @@ This is for iOS and Android crash and ANRs notifications.
 ## Customization
 
 - I use the color palette [Nord Theme](https://www.nordtheme.com) for my terminal and IDE.
+
+- My coding font is [Jetbrains Mono](https://www.jetbrains.com/lp/mono/).
